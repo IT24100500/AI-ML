@@ -28,9 +28,6 @@ The final workflow includes:
 - 📊 **EDA & Visualization** – Collaborative  
   Exploring distributions, correlations, and trends using histograms, box plots, heatmaps, and pair plots
 
-- 🤖 **Model Training & Evaluation** – Collaborative  
-  Training classifiers (e.g., Random Forest, Logistic Regression) and evaluating with confusion matrices, classification reports, and accuracy scores
-
 Let me know if you'd like this formatted for a report, presentation, or GitHub README. I can also help scaffold each member’s code module for clean integration.
 
 This project demonstrates a reproducible and modular approach to health data preprocessing, suitable for downstream machine learning tasks and real-world deployment.
