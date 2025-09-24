@@ -4,7 +4,8 @@
 This repository presents a collaborative data preprocessing and modeling pipeline built around a health and lifestyle dataset. The dataset includes biometric, behavioral, and demographic attributes such as age, BMI, glucose levels, sleep hours, physical activity, and family history—aimed at predicting a health risk classification (target_encoded).
 Each group member contributed a distinct preprocessing technique, including encoding, scaling, outlier removal, and feature selection. These techniques were individually documented in separate notebooks and then integrated into a unified pipeline (group_pipeline.ipynb) for model training and evaluation.
 The final workflow includes:
-- Absolutely, Chamodith! Here's the revised version of your project workflow, aligned with the group member responsibilities:
+
+--
 ### 🧩 Project Workflow 
 
 - 🧼 **Missing Data Handling** – Managed by IT24100500  
