@@ -5,6 +5,7 @@ This repository presents a collaborative data preprocessing and modeling pipelin
 Each group member contributed a distinct preprocessing technique, including encoding, scaling, outlier removal, and feature selection. These techniques were individually documented in separate notebooks and then integrated into a unified pipeline (group_pipeline.ipynb) for model training and evaluation.
 The final workflow includes:
 -
+--
 ### 🧩 Project Workflow 
 
 - 🧼 **Missing Data Handling** – Managed by IT24100500  
