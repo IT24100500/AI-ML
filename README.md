@@ -5,9 +5,6 @@ This repository presents a collaborative data preprocessing and modeling pipelin
 Each group member contributed a distinct preprocessing technique, including encoding, scaling, outlier removal, and feature selection. These techniques were individually documented in separate notebooks and then integrated into a unified pipeline (group_pipeline.ipynb) for model training and evaluation.
 The final workflow includes:
 - Absolutely, Chamodith! Here's the revised version of your project workflow, aligned with the group member responsibilities:
-
----
-
 ### 🧩 Project Workflow 
 
 - 🧼 **Missing Data Handling** – Managed by IT24100500  
@@ -33,8 +30,6 @@ The final workflow includes:
 
 - 🤖 **Model Training & Evaluation** – Collaborative  
   Training classifiers (e.g., Random Forest, Logistic Regression) and evaluating with confusion matrices, classification reports, and accuracy scores
-
----
 
 Let me know if you'd like this formatted for a report, presentation, or GitHub README. I can also help scaffold each member’s code module for clean integration.
 
